@@ -1,0 +1,54 @@
+# ninja log v5
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/libflutter_linux_gtk.so	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_engine.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_value.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_view.h	c0405cf0257c81e3
+0	27182	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	c0405cf0257c81e3
+0	27182	0	flutter/_phony_	c0405cf0257c81e3
+27183	28414	1678549015922817204	CMakeFiles/app.dir/flutter/generated_plugin_registrant.cc.o	6e7af50a9f6b3406
+27183	28500	1678549016006819658	CMakeFiles/app.dir/main.cc.o	4a6a063dd461e760
+27183	28537	1678549016050820943	CMakeFiles/app.dir/my_application.cc.o	ef5d3ad4e55dc564
+28537	28884	1678549016398831108	intermediates_do_not_run/app	732ad25a91565663
+28884	29218	0	CMakeFiles/install.util	6ad706e0965777dd
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/libflutter_linux_gtk.so	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_engine.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_value.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/fl_view.h	c0405cf0257c81e3
+4	6424	0	/home/bloopdex/Documents/Personal Projects/Hackathons/JunctionX/artemis-junction-app/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	c0405cf0257c81e3
+4	6424	0	flutter/_phony_	c0405cf0257c81e3
+6431	7197	1678549504021548106	CMakeFiles/app.dir/flutter/generated_plugin_registrant.cc.o	6e7af50a9f6b3406
+6425	7281	1678549504105550700	CMakeFiles/app.dir/my_application.cc.o	ef5d3ad4e55dc564
+7281	7560	1678549504385559350	intermediates_do_not_run/app	b040a0bb03e31884
+7560	7708	0	CMakeFiles/install.util	6ad706e0965777dd
