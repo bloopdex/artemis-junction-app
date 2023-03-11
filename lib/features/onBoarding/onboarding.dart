@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
 
+import '../home/home_screen.dart';
+
 class OnBoarding extends StatelessWidget {
   static const String routeName = '/onBoarding';
   const OnBoarding({super.key});
@@ -30,7 +32,9 @@ class OnBoarding extends StatelessWidget {
                     style: Theme.of(context).textTheme.bodyMedium),
                 const Spacer(flex: 3),
                 TextButton(
-                    onPressed: () {},
+                    onPressed: () {
+                      Navigator.pushNamed(context, HomeScreen.routeName);
+                    },
                     style: Theme.of(context).textButtonTheme.style,
                     child: const Text('Start Now')),
                 const Spacer(flex: 1)

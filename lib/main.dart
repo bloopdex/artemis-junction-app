@@ -1,7 +1,7 @@
 import 'package:app/constants/theme.dart';
 import 'package:app/features/alert/alert.dart';
 import 'package:app/features/home/home_screen.dart';
-import 'package:app/features/onBoarding/onboarding_screen.dart';
+import 'package:app/features/onBoarding/onboarding.dart';
 import 'package:app/features/warning/warning.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
               AlertScreen.routeName: (context) => const AlertScreen(),
               OnBoarding.routeName: (context) => const OnBoarding()
             },
-            home: const WarningScreen(),
+            home: const OnBoarding(),
           );
         });
   }

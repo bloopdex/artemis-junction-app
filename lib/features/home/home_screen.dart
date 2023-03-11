@@ -1,4 +1,5 @@
 import 'package:app/constants/const.dart';
+import 'package:app/features/alert/alert.dart';
 import 'package:app/features/home/widgets/filter_chip.dart';
 import 'package:app/features/home/widgets/statistics_card.dart';
 import 'package:flutter/material.dart';
@@ -12,6 +13,10 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    Future.delayed(const Duration(seconds: 3), () {
+      Navigator.pushNamed(context, AlertScreen.routeName);
+    });
+
     const filter = [
       'Server Rooms',
       'Subfloors',
